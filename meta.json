@@ -1,0 +1,23 @@
+{
+  "repo": "redgate-sql-toolbelt-dba-premium",
+  "product": "Redgate SQL Toolbelt DBA Premium",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "redgate-sql-toolbelt-dba",
+    "redgate-sql",
+    "redgate-sql-dba",
+    "how-to-install-redgate-sql",
+    "how-to-setup-redgate-sql",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "redgate-toolbelt"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Redgate SQL Toolbelt DBA Premium"
+}
